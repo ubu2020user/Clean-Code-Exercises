@@ -7,7 +7,7 @@ The goal of this exercise is to practice reformatting code to improve its readab
 
 ## Tasks
 
-### Exercise 1: Refactor Code Formatting
+### Refactor Code Formatting
 - Open the files in [exercises](./exercises/).
 - Identify sections of code with inconsistent formatting or poor readability.
 - Apply formatting changes to ensure:

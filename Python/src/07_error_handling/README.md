@@ -7,7 +7,7 @@ The goal of this exercise is to explore best practices for handling errors and e
 
 ## Tasks
 
-### Exercise 1: Refactor Code for Improved Error Handling
+### Refactor Code for Improved Error Handling
 - Open the files in [exercises](./exercises/).
 - Analyze the code and address the following:
   - Are there methods that return null values?

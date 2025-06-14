@@ -7,7 +7,7 @@ The goal of this exercise is to explore the principles of object-oriented design
 
 ## Tasks
 
-### Exercise 1: Refactor Code to Adhere to the Law of Demeter
+### Refactor Code to Adhere to the Law of Demeter
 - Open the files in [exercises](./exercises/).
 - Identify sections of code that violate the Law of Demeter (e.g., excessive method chaining or direct access to internal objects).
 - Refactor the code to ensure:

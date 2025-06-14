@@ -7,7 +7,7 @@ The goal of this exercise is to refactor and extract code blocks to improve read
 
 ## Tasks
 
-### Exercise 1: Analyze Code Structure
+### Analyze Code Structure
 - Open the file [shopping.py](./exercises/shopping.py)
 - Identify areas where code blocks can be extracted into functions or methods.
 - Document your findings, focusing on:

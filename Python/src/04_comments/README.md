@@ -7,7 +7,7 @@ The goal of this exercise is to practice writing clear and concise docstrings to
 
 ## Tasks
 
-### Exercise 1: Add Docstrings to Functions
+### Add Docstrings to Functions
 - Open the files in [exercises](./exercises/)
 - Identify functions or methods that lack docstrings.
 - Write docstrings for each function, ensuring they:
