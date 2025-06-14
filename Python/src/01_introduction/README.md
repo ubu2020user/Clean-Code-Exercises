@@ -4,7 +4,7 @@
 The goal of this project is to analyze, evaluate, and improve the existing source code. You should assess the quality of the code, identify weaknesses, and propose improvements.
 
 ## Snake Game I
-- Open the file [`snake_game.py`](snake_game.py) in the folder [`src/01_introduction`](./).
+- Open the file [`snake_game.py`](./exercises/snake_game.py) of the folder [`src/01_introduction`](./).
 - Test the game and analyze its implementation.
 - Identify areas for improvement, such as:
   - **Code readability**: Is the code easy to read and understand?
@@ -23,10 +23,10 @@ The goal of this project is to analyze, evaluate, and improve the existing sourc
 
 ## Solutions
 For Snake Game I:  
-Compare your comments with the file [`snake_game_solution.py`](./solution/snake_game_solution.py) in the folder `solution`.
+Compare your comments with the file [`snake_game_solution.py`](./solutions/snake_game_solution.py) in the folder `solution`.
 
 For Snake Game II:
-Compare your refactored code with the file [`snake_game_refactored.py`](./solution/snake_game_clean.py) in the folder `solution`.
+Compare your refactored code with the file [`snake_game_refactored.py`](./solutions/snake_game_clean.py) in the folder `solution`.
 
 
 ## Notes
