@@ -1,5 +1,12 @@
 import pytest
-from ...exercises.student import Student
+
+import sys
+from pathlib import Path
+
+# Add the exercises directory to the path
+sys.path.append(str(Path(__file__).resolve().parent.parent))
+
+from student import Student
 
 class TestStudent:
     def test_init(self):

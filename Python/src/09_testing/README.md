@@ -19,12 +19,12 @@ To proceed:
   - Use a testing framework like `unittest` or `pytest` to write unit tests for the `Student` class.
     - The command to test with pytest and see your coverage is:
       ```bash
-      pytest --cov test_student.py
+      pytest tests/test_student.py --cov
       ```    
   - Ensure that all methods are covered, including edge cases.
 
 3. **Mock Dependencies**:
-  - If the `Student` class would interact with external systems or dependencies, you could create mock objects to simulate their behavior.
+  - If the `Student` class would interact with external systems or dependencies, you could create mock objects to simulate their behavior. (See [student_hard.py](./exercises/student_hard.py) for an example.)
   - Use mocking libraries like `unittest.mock` or `pytest-mock` or `mockito` to create these mocks.
 
 4. **Ensure Code Coverage**:
