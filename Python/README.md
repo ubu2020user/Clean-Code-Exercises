@@ -31,3 +31,4 @@ There are different tasks in this repository, each with its own directory. The t
 | [Docstrings](./src/04_comments/README.md) | Writing Effective Docstrings | 2 |
 | [Formatting](./src/05_formatting/README.md) | Refactoring Code Formatting | 2 |
 | [Demeter](./src/06_demeter/README.md) | Refactoring Code for Readability | 3 |
+| [Error Handling](./src/07_error_handling/README.md) | Implementing Error Handling | 4 |
