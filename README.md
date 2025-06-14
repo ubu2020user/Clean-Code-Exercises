@@ -20,3 +20,4 @@ Note: To setup python, refer to the [Python Training](./Python/README.md).
 | [Demeter](./Python/src/06_demeter/README.md) | Refactoring Code for Readability | 3 |
 | [Error Handling](./Python/src/07_error_handling/README.md) | Implementing Error Handling | 4 |
 | [Painter](./Python/src/08_delegation/README.md) | Delegation and Code Organization | 4 |
+| [Student Examination](./Python/src/09_testing/README.md) | Writing Unit Tests | 5 |

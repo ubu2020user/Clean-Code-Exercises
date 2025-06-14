@@ -33,3 +33,4 @@ There are different tasks in this repository, each with its own directory. The t
 | [Demeter](./src/06_demeter/README.md) | Refactoring Code for Readability | 3 |
 | [Error Handling](./src/07_error_handling/README.md) | Implementing Error Handling | 4 |
 | [Painter](./src/08_delegation/README.md) | Delegation and Code Organization | 4 |
+| [Student Examination](./src/09_testing/README.md) | Writing Unit Tests | 5 |
