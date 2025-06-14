@@ -13,7 +13,6 @@ class CircleData:
     def checkValid(self):
         return self._Rad > 0
 
-# Example usage
 if __name__ == "__main__":
     circ = CircleData(5)
 

@@ -21,7 +21,6 @@ class employee_data:
         today = date.today()
         return relativedelta(today, self.hireDate).years
 
-# Example usage of the class
 emp = employee_data("John", "Doe", "Office Street 1", "54321", "Office City", 20, 35, date(2015, 3, 15))
 print("Weekly Salary:", emp.calcWeeklySal())
 print("Years of Service:", emp.calcYearsService())

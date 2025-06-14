@@ -2,6 +2,24 @@ from datetime import date
 from dateutil.relativedelta import relativedelta  
 
 class EmployeeData:
+    """
+    A class to represent employee data and perform calculations related to their salary and years of service.
+    Attributes:
+        MAX_HOURS (int): The maximum number of hours an employee can work in a week.
+        first_name (str): The first name of the employee.
+        last_name (str): The last name of the employee.
+        street_address (str): The street address of the employee.
+        zip_code (str): The zip code of the employee's address.
+        city (str): The city of the employee's address.
+        hourly_wage (float): The hourly wage of the employee.
+        hours_worked (int): The number of hours worked by the employee in a week.
+        hire_date (datetime.date): The date the employee was hired.
+    Methods:
+        calculate_weekly_salary():
+            Calculates the weekly salary of the employee based on their hourly wage and hours worked.
+        calculate_years_of_service():
+            Calculates the number of years the employee has been in service based on their hire date.
+    """
     MAX_HOURS = 40
 
     def __init__(self, first_name, last_name, street_address, zip_code, city, hourly_wage, hours_worked, hire_date):

@@ -1,10 +1,13 @@
 from datetime import date
-from dateutil.relativedelta import relativedelta  
+from dateutil.relativedelta import relativedelta
+
 
 class employee_data:
     maxHours = 40
 
-    def __init__(self, fname, lname, addr_st, addr_zip, addr_cty, wage, hrsWorked, hireDate):
+    def __init__(
+        self, fname, lname, addr_st, addr_zip, addr_cty, wage, hrsWorked, hireDate
+    ):
         self.fname = fname
         self.lname = lname
         self.addr_st = addr_st
@@ -21,7 +24,9 @@ class employee_data:
         today = date.today()
         return relativedelta(today, self.hireDate).years
 
-# Example usage of the class
-emp = employee_data("John", "Doe", "Office Street 1", "54321", "Office City", 20, 35, date(2015, 3, 15))
+
+emp = employee_data(
+    "John", "Doe", "Office Street 1", "54321", "Office City", 20, 35, date(2015, 3, 15)
+)
 print("Weekly Salary:", emp.calcWeeklySal())
 print("Years of Service:", emp.calcYearsService())
