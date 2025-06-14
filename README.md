@@ -17,3 +17,4 @@ Note: To setup python, refer to the [Python Training](./Python/README.md).
 | [Shopping](./Python/src/03_codeblocks/README.md) | Refactoring and Extracting Code Blocks | 2 |
 | [Docstrings](./Python/src/04_comments/README.md) | Writing Effective Docstrings | 2 |
 | [Formatting](./Python/src/05_formatting/README.md) | Refactoring Code Formatting | 2 |
+| [Demeter](./Python/src/06_demeter/README.md) | Refactoring Code for Readability | 3 |

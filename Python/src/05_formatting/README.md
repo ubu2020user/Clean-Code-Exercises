@@ -1,4 +1,4 @@
-# Exercise 4: Reformatting Code for Readability
+# Exercise 5: Reformatting Code for Readability
 
 ## Objective
 The goal of this exercise is to practice reformatting code to improve its readability and maintainability.
