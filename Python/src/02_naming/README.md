@@ -25,7 +25,7 @@ The goal of this exercise is to analyze, evaluate, and refactor the existing sou
       - Right-click on a name, then select **Refactor >   Rename**.
       - Ensure all names follow proper conventions (e.g., camelCase for variables, PascalCase for classes, snake_case for functions in Python).
 
-  - Align with the conventions outlined in the Python Style Guide (PEP 8).
+  - Align with the conventions outlined in the Python Style Guide ([PEP 8](https://peps.python.org/pep-0008/)).
 
 ## Goals
 By the end of this exercise, you should:
