@@ -13,3 +13,4 @@ Note: To setup python, refer to the [Python Training](./Python/README.md).
 | Task | Description | Level |
 |---|---|---|
 | [Snake Game](./Python/src/01_introduction/README.md) | Analyzing & Improving Clean Code | Beginner |
+| [Naming](./Python/src/02_naming/README.md) | Naming Conventions in Python | Beginner |

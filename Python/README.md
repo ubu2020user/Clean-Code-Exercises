@@ -26,3 +26,4 @@ There are different tasks in this repository, each with its own directory. The t
 | Task | Description | Level |
 |---|---|---|
 | [Snake Game](./src/01_introduction/README.md) | Analyzing & Improving Clean Code | Beginner |
+| [Naming](./src/02_naming/README.md) | Naming Conventions in Python | Beginner |
