@@ -35,5 +35,6 @@ There are different tasks in this repository, each with its own directory. The t
 | [Painter](./src/08_delegation/README.md) | Delegation and Code Organization | 4 |
 | [Student Examination](./src/09_testing/README.md) | Writing Unit Tests | 5 |
 | [Snake Refactored](./src/10_classes/README.md) | Refactoring: Specialized Classes | 5 |
+| [Injection](./src/11_injection/README.md) | Dependency Injection | 6 |
 | [Code Duplications](./src/12_duplication/README.md) | Refactoring: Code Duplication | 3 |
 | [Multi Threading](./src/13_multithreading/README.md) | Refactoring: Multi-threading | 6 |
