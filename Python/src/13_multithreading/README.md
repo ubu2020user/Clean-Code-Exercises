@@ -22,3 +22,8 @@ By completing this exercise, you will:
 - Develop skills in analyzing and explaining algorithmic performance.
 
 Good luck!
+
+---
+If You came this far, Congratulations! You have completed the Python exercises. You can now proceed to real projects and apply your knowledge in practical scenarios. The core concepts you have learned will be invaluable in your journey as a Python developer. Keep practicing and exploring new challenges to further enhance your skills.
+
+Yours, Daniel
