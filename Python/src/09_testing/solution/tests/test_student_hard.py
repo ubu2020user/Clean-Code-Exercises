@@ -1,6 +1,13 @@
 import pytest
 import requests
 from unittest.mock import patch, Mock
+
+import sys
+from pathlib import Path
+
+# Add the exercises directory to the path
+sys.path.append(str(Path(__file__).resolve().parent.parent))
+
 from student_hard import StudentHard
 
 class TestStudentHard:
