@@ -23,3 +23,4 @@ Note: To setup python, refer to the [Python Training](./Python/README.md).
 | [Student Examination](./Python/src/09_testing/README.md) | Writing Unit Tests | 5 |
 | [Snake Refactored](./Python/src/10_classes/README.md) | Refactoring: Specialized Classes | 5 |
 | [Code Duplications](./Python/src/12_duplication/README.md) | Refactoring: Code Duplication | 3 |
+| [Multi Threading](./Python/src/13_multithreading/README.md) | Refactoring: Multi-threading | 6 |
