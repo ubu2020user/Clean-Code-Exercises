@@ -23,7 +23,7 @@ pip freeze > requirements.txt
 
 There are different tasks in this repository, each with its own directory. The tasks are:  
   
-| Task | Description | Level |
+| Task Name | Description | Level |
 |---|---|---|
 | [Snake Game](./src/01_introduction/README.md) | Analyzing & Improving Clean Code | 1 |
 | [Naming](./src/02_naming/README.md) | Naming Conventions in Python | 1 |
@@ -35,3 +35,4 @@ There are different tasks in this repository, each with its own directory. The t
 | [Painter](./src/08_delegation/README.md) | Delegation and Code Organization | 4 |
 | [Student Examination](./src/09_testing/README.md) | Writing Unit Tests | 5 |
 | [Snake Refactored](./src/10_classes/README.md) | Refactoring: Specialized Classes | 5 |
+| [Code Duplications](./src/12_duplication/README.md) | Refactoring: Code Duplication | 3 |
