@@ -1,4 +1,10 @@
-from ..entities.assignment import Assignment
+import sys
+from pathlib import Path
+
+# Add the exercises directory to the path
+sys.path.append(str(Path(__file__).resolve().parent.parent))
+
+from entities.assignment import Assignment
 
 class ProjectService:
     """

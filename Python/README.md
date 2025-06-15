@@ -34,3 +34,4 @@ There are different tasks in this repository, each with its own directory. The t
 | [Error Handling](./src/07_error_handling/README.md) | Implementing Error Handling | 4 |
 | [Painter](./src/08_delegation/README.md) | Delegation and Code Organization | 4 |
 | [Student Examination](./src/09_testing/README.md) | Writing Unit Tests | 5 |
+| [Snake Refactored](./src/10_classes/README.md) | Refactoring: Specialized Classes | 5 |

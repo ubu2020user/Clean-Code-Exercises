@@ -1,4 +1,4 @@
-# Exercise 1: Noodle Code
+# Exercise 1: Introduction to Code Refactoring
 
 ## Objective
 The goal of this project is to analyze, evaluate, and improve the existing source code. You should assess the quality of the code, identify weaknesses, and propose improvements.

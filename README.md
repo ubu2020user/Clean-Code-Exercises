@@ -21,3 +21,4 @@ Note: To setup python, refer to the [Python Training](./Python/README.md).
 | [Error Handling](./Python/src/07_error_handling/README.md) | Implementing Error Handling | 4 |
 | [Painter](./Python/src/08_delegation/README.md) | Delegation and Code Organization | 4 |
 | [Student Examination](./Python/src/09_testing/README.md) | Writing Unit Tests | 5 |
+| [Snake Refactored](./Python/src/10_classes/README.md) | Refactoring: Specialized Classes | 5 |
