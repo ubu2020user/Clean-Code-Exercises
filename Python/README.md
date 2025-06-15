@@ -1,7 +1,7 @@
 ### Python Training 
 
 - [Setup](#setup)
-- [Excercises](#excercises)
+- [Exercises](#exercises)
 
 
 ## Setup
@@ -19,7 +19,7 @@ To freeze libraries:
 pip freeze > requirements.txt
 ```
 
-## Excercises
+## Exercises
 
 There are different tasks in this repository, each with its own directory. The tasks are:  
   

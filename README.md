@@ -1,9 +1,9 @@
 ### Clean Code Training 
 
-- [Excercises](#excercises)
+- [Exercises](#exercises)
   - [Python](#python)
 
-## Excercises
+## Exercises
 
 There are different tasks in this repository, each with its own directory.  
 
