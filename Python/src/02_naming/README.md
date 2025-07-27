@@ -7,18 +7,18 @@ The goal of this exercise is to analyze, evaluate, and refactor the existing sou
 
 ## Tasks
 
-### 1. **Review Coding Conventions**
+### Task 1: **Review Coding Conventions**
 - Visit the official **Python Style Guide** (PEP 8).
 - Review the guidelines provided for writing clean and maintainable source code.
 
-### Task 1: Analyze Naming Violations
+### Task 2: Analyze Naming Violations
 - Open the files:
   - [circleData.py](./exercises/circleData.py)
   - [customerData](./exercises/customerData.py)
 - Identify naming convention violations (e.g., inconsistent variable names, unclear function names).
 - Document your findings.
 
-### Task 2: Refactor Naming
+### Task 3: Refactor Naming
 - Refactor the code to:
   - Use meaningful and consistent names for variables, functions, and classes.
     - Use the refactoring functionality of your IDE:
