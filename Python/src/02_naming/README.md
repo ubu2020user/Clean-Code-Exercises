@@ -9,7 +9,7 @@ The goal of this exercise is to analyze, evaluate, and refactor the existing sou
 
 ### Task 1: **Review Coding Conventions**
 - Visit the official **Python Style Guide** (PEP 8).
-- Review the guidelines provided for writing clean and maintainable source code.
+- Review the guidelines provided for *Naming conventions*.
 
 ### Task 2: Analyze Naming Violations
 - Open the files:
